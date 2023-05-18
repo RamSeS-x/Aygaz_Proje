@@ -10,7 +10,6 @@ import pandas as pd
 import sqlalchemy as sa
 import dotenv
 from baglanti_sql_v2 import baglanti_sql_v2
-
 # .env dosyasındaki bilgileri yükle
 dotenv.load_dotenv()
 
